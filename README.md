@@ -1,0 +1,2 @@
+# azure-text-analytics
+This is a simple azure text analytics project which you can customize as per your requirement. In this example i have copied text paragraph from wikipedia into 2 seperate txt files for demo. One can change the text in the folder to test or utilize into your project especially to analyse customer reviews, survey results or social media responses. Pls note that the Cognitive Services Text Analytics service offers a free tier that include up to 5000 tansactions per month only, keep this in mind when you are working on this demo.
